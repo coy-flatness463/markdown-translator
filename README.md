@@ -1,5 +1,7 @@
 # Markdown Translator
 
+![cover](./assets/images/markdown-translator.png)
+
 一个基于Python的命令行工具，使用OpenRouter API将Markdown文件翻译成中文。该工具通过智能分割、并发处理和内容验证来确保翻译质量和完整性。
 
 A Python command-line tool for translating Markdown files to Chinese using OpenRouter API with intelligent splitting, concurrent processing, and content validation.
